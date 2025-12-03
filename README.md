@@ -53,14 +53,13 @@ Woranut Hansamer 663020294-7
 * ค่าทางสถิติพื้นฐาน
 * การสร้าง Visualization เพื่อเห็นรูปแบบในข้อมูล
 * การวัดความเหมือน–ความต่างของข้อมูล
-
 สิ่งเหล่านี้คือแก่นสำคัญก่อนจะทำ Machine Learning, Clustering หรือ Pattern Mining ต่อไป
 --------------
-สรุปเนื้อหา
-เอกสารบทที่ 1 [Introduction](https://drive.google.com/file/d/1VJ2ceYxBHDqBz9xVcdErGcm4GLmYzN4W/view?usp=drive_link)
+📘สรุปเนื้อหา
+📝เอกสารบทที่ 1 [Introduction](https://drive.google.com/file/d/1VJ2ceYxBHDqBz9xVcdErGcm4GLmYzN4W/view?usp=drive_link)
 
-สรุป [บทนำ](https://docs.google.com/document/d/120lmT-Xvc1AWmeepDaGVdWgP27ezoItUeAt4XDZUsGo/edit?usp=drivesdk)
+🌟สรุป [บทนำ](https://docs.google.com/document/d/120lmT-Xvc1AWmeepDaGVdWgP27ezoItUeAt4XDZUsGo/edit?usp=drivesdk)
 
-เอกสารบทที่ 2 [Getting to Know Your Data](https://drive.google.com/file/d/1lx4HYNJakfe3dhvIDt1BVE_PMifXomqy/view?usp=drive_link)
+📊เอกสารบทที่ 2 [Getting to Know Your Data](https://drive.google.com/file/d/1lx4HYNJakfe3dhvIDt1BVE_PMifXomqy/view?usp=drive_link)
 
-สรุป [ทำความรู้จักกับข้อมูล](https://docs.google.com/document/d/122z8VE61Wh1fA8oxKnKZLHEDKHZBlZYcG6AJS05YcZQ/edit?usp=drivesdk)
+🌟สรุป [ทำความรู้จักกับข้อมูล](https://docs.google.com/document/d/122z8VE61Wh1fA8oxKnKZLHEDKHZBlZYcG6AJS05YcZQ/edit?usp=drivesdk)
