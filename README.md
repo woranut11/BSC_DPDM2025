@@ -56,6 +56,7 @@ Woranut Hansamer 663020294-7
 สิ่งเหล่านี้คือแก่นสำคัญก่อนจะทำ Machine Learning, Clustering หรือ Pattern Mining ต่อไป
 --------------
 📘สรุปเนื้อหา
+
 📝เอกสารบทที่ 1 [Introduction](https://drive.google.com/file/d/1VJ2ceYxBHDqBz9xVcdErGcm4GLmYzN4W/view?usp=drive_link)
 
 🌟สรุป [บทนำ](https://docs.google.com/document/d/120lmT-Xvc1AWmeepDaGVdWgP27ezoItUeAt4XDZUsGo/edit?usp=drivesdk)
