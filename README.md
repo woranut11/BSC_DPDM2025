@@ -64,3 +64,5 @@ Woranut Hansamer 663020294-7
 📊เอกสารบทที่ 2 [Getting to Know Your Data](https://drive.google.com/file/d/1lx4HYNJakfe3dhvIDt1BVE_PMifXomqy/view?usp=drive_link)
 
 🌟สรุป [ทำความรู้จักกับข้อมูล](https://docs.google.com/document/d/122z8VE61Wh1fA8oxKnKZLHEDKHZBlZYcG6AJS05YcZQ/edit?usp=drivesdk)
+
+💾[เอกสารเพิ่มเติม](file:///C:/Users/Acer/Downloads/AI%20%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1.pdf)
